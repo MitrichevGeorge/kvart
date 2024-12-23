@@ -34,12 +34,16 @@
  - 8.[Кривая Коха](https://github.com/MitrichevGeorge/kvart/blob/main/snkoh.py):
    ![тут была картинка](https://github.com/MitrichevGeorge/kvart/blob/main/img/snkoh.png)
    
- - 9.[Снежинка Коха](https://github.com/MitrichevGeorge/kvart/blob/main/koh.py)
+ - 9.[Снежинка Коха](https://github.com/MitrichevGeorge/kvart/blob/main/koh.py):
    ![тут была картинка](https://github.com/MitrichevGeorge/kvart/blob/main/img/koh_snwf.png)
 
- - 10.Кривая Гильберта
- - 11.Кривая Госкера
- - 12.Дерево Пифагора
+ - 10.[Кривая Гильберта](https://github.com/MitrichevGeorge/kvart/blob/main/hilbert.py):
+   !тут была картинка
+   
+ - 11.[Кривая Госкера](https://github.com/MitrichevGeorge/kvart/blob/main/hosker.py):
+   !тут была картинка
+
+ - 12.[Дерево Пифагора](https://github.com/MitrichevGeorge/kvart/blob/main/piftre.py)
 
  ### Фракталы-множества:
  - 6.[Фрактал Бенуа(Мандельброта)](https://github.com/MitrichevGeorge/kvart/blob/main/mand.py)

@@ -10,37 +10,35 @@
 
 ## Краткий список фракталов с примерами:
 ### Фракталы на черепашке turtle
- - 1.[Кривая Минковского](https://github.com/MitrichevGeorge/kvart/blob/main/mink.py):
+ - 1.[Кривая Минковского(Пеано)](https://github.com/MitrichevGeorge/kvart/blob/main/mink.py):<br>
    ![тут была картинка](https://github.com/MitrichevGeorge/kvart/blob/main/img/mink.png)
    
- - 2.[Фрактал Леви](https://github.com/MitrichevGeorge/kvart/blob/main/levi.py):
+ - 2.[Фрактал Леви](https://github.com/MitrichevGeorge/kvart/blob/main/levi.py):<br>
    ![тут была картинка](https://github.com/MitrichevGeorge/kvart/blob/main/img/levi.png)
    
- - 3.[Фрактал Дракона](https://github.com/MitrichevGeorge/kvart/blob/main/dragon.py):
+ - 3.[Фрактал Дракона](https://github.com/MitrichevGeorge/kvart/blob/main/dragon.py):<br>
    ![тут была картинка](https://github.com/MitrichevGeorge/kvart/blob/main/img/dragon.png)
    
- - 4.[Фрактал Капреолла](https://github.com/MitrichevGeorge/kvart/blob/main/capreol.py):
-   !тут была картинка
+ - 4.[Фрактал Капреолла](https://github.com/MitrichevGeorge/kvart/blob/main/capreol.py):<br>
+   ![тут была картинка](https://github.com/MitrichevGeorge/kvart/blob/main/img/capreol.png)
+
    
- - 5.[Фрактал Лиссажу](https://github.com/MitrichevGeorge/kvart/blob/main/lissaj.py):
-   !тут была картинка
-   
- - 6.[Треугольник Серпинского](https://github.com/MitrichevGeorge/kvart/blob/main/serp.py):
+ - 6.[Треугольник Серпинского](https://github.com/MitrichevGeorge/kvart/blob/main/serp.py):<br>
    ![тут была картинка](https://github.com/MitrichevGeorge/kvart/blob/main/img/serp.png)
    
- - 7.[Ковёр Серпинского](https://github.com/MitrichevGeorge/kvart/blob/main/sqr.py):
+ - 7.[Ковёр Серпинского](https://github.com/MitrichevGeorge/kvart/blob/main/sqr.py):<br>
    ![тут была картинка](https://github.com/MitrichevGeorge/kvart/blob/main/img/serp_carpt.png)
    
- - 8.[Кривая Коха](https://github.com/MitrichevGeorge/kvart/blob/main/snkoh.py):
+ - 8.[Кривая Коха](https://github.com/MitrichevGeorge/kvart/blob/main/snkoh.py):<br>
    ![тут была картинка](https://github.com/MitrichevGeorge/kvart/blob/main/img/snkoh.png)
    
- - 9.[Снежинка Коха](https://github.com/MitrichevGeorge/kvart/blob/main/koh.py):
+ - 9.[Снежинка Коха](https://github.com/MitrichevGeorge/kvart/blob/main/koh.py):<br>
    ![тут была картинка](https://github.com/MitrichevGeorge/kvart/blob/main/img/koh_snwf.png)
 
- - 10.[Кривая Гильберта](https://github.com/MitrichevGeorge/kvart/blob/main/hilbert.py):
-   !тут была картинка
+ - 10.[Кривая Гильберта](https://github.com/MitrichevGeorge/kvart/blob/main/hilbert.py):<br>
+   ![тут была картинка](https://github.com/MitrichevGeorge/kvart/blob/main/img/hilbert.png)
    
- - 11.[Кривая Госкера](https://github.com/MitrichevGeorge/kvart/blob/main/hosker.py):
+ - 11.[Кривая Госкера](https://github.com/MitrichevGeorge/kvart/blob/main/hosker.py):<br>
    !тут была картинка
 
  - 12.[Дерево Пифагора](https://github.com/MitrichevGeorge/kvart/blob/main/piftre.py)
@@ -55,3 +53,6 @@
 
  ### Необычные фракталы:
  - 11.[Фрактал Логистической карты](https://github.com/MitrichevGeorge/kvart/blob/main/lmap.py)
+ - 
+ - 5.[Фрактал Лиссажу](https://github.com/MitrichevGeorge/kvart/blob/main/lissaj.py):<br>
+   !тут была картинка

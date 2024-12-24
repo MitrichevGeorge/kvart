@@ -46,7 +46,12 @@
  - 12.[Дерево Пифагора](https://github.com/MitrichevGeorge/kvart/blob/main/piftre.py):<br>
    ![тут была картинка](https://github.com/MitrichevGeorge/kvart/blob/main/img/piftre.png)
 
- - 13.Трисектрис триангулярная кривая Коха
+ - 13.[Трисектрис триангулярная кривая Коха](https://github.com/MitrichevGeorge/kvart/blob/main/tris.py):<br>
+   ![image](https://github.com/user-attachments/assets/7b0f6b5c-1db9-4663-9cca-55f010d7efa2)
+ 
+ - 14.[Фрактал треугольника с равномерным центром масс](https://github.com/MitrichevGeorge/kvart/blob/main/trin.py):<br>
+   ![image](https://github.com/user-attachments/assets/13d48d8f-f54d-4450-b2e1-a86b93f63d26)
+
 
  ### Фракталы-множества:
  - 6.[Фрактал Бенуа(Мандельброта)](https://github.com/MitrichevGeorge/kvart/blob/main/mand.py)

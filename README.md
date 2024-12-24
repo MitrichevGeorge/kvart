@@ -54,12 +54,18 @@
 
 
  ### Фракталы-множества:
- - 6.[Фрактал Бенуа(Мандельброта)](https://github.com/MitrichevGeorge/kvart/blob/main/mand.py)
- - 7.[Аттрактор Лоренца](https://github.com/MitrichevGeorge/kvart/blob/main/lorenz.py)
- - 3.Множество Жулиа
- - 4.Множество Кантора
- - 5.Множество Барнсли
- - 6.Множество Новой
+ - 6.[Фрактал Бенуа(Мандельброта)](https://github.com/MitrichevGeorge/kvart/blob/main/mand.py):<br>
+ - 7.[Аттрактор Лоренца](https://github.com/MitrichevGeorge/kvart/blob/main/lorenz.py):<br>
+   ![image](https://github.com/user-attachments/assets/e4d0ccc6-2a78-45d1-b736-33f8b47d5d58)
+
+ - 3.[Множество Жулиа](https://github.com/MitrichevGeorge/kvart/blob/main/julia.py):<br>
+   ![image](https://github.com/user-attachments/assets/7b0b372b-9519-465a-9afd-8f78b8f5bf27)
+
+ - 4.[Множество Кантора](https://github.com/MitrichevGeorge/kvart/blob/main/cantor.py):<br>
+   ![image](https://github.com/user-attachments/assets/d5216442-35d0-4707-b392-17b3af613069)
+
+ - 5.[Множество Барнсли](https://github.com/MitrichevGeorge/kvart/blob/main/barnsli.py):<br>
+ - 6.[Множество Новой](https://github.com/MitrichevGeorge/kvart/blob/main/novoj.py):<br>
 
  ### Необычные фракталы:
  - 11.[Фрактал Логистической карты](https://github.com/MitrichevGeorge/kvart/blob/main/lmap.py)

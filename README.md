@@ -13,7 +13,7 @@
  - 1.[Кривая Минковского(Пеано)](https://github.com/MitrichevGeorge/kvart/blob/main/mink.py):<br>
    ![тут была картинка](https://github.com/MitrichevGeorge/kvart/blob/main/img/mink.png)
    
- - 2.[Фрактал Леви](https://github.com/MitrichevGeorge/kvart/blob/main/levi.py):<br>
+ - 2.[Фрактал Леви(Ляй)](https://github.com/MitrichevGeorge/kvart/blob/main/levi.py):<br>
    ![тут была картинка](https://github.com/MitrichevGeorge/kvart/blob/main/img/levi.png)
    
  - 3.[Фрактал Дракона](https://github.com/MitrichevGeorge/kvart/blob/main/dragon.py):<br>
@@ -22,6 +22,8 @@
  - 4.[Фрактал Капреолла](https://github.com/MitrichevGeorge/kvart/blob/main/capreol.py):<br>
    ![тут была картинка](https://github.com/MitrichevGeorge/kvart/blob/main/img/capreol.png)
 
+ - 5.[Фрактал Цезаря](https://github.com/MitrichevGeorge/kvart/blob/main/cesar.py):<br>
+   ![тут была картинка](https://github.com/MitrichevGeorge/kvart/blob/main/img/cesar.png)
    
  - 6.[Треугольник Серпинского](https://github.com/MitrichevGeorge/kvart/blob/main/serp.py):<br>
    ![тут была картинка](https://github.com/MitrichevGeorge/kvart/blob/main/img/serp.png)
@@ -29,7 +31,7 @@
  - 7.[Ковёр Серпинского](https://github.com/MitrichevGeorge/kvart/blob/main/sqr.py):<br>
    ![тут была картинка](https://github.com/MitrichevGeorge/kvart/blob/main/img/serp_carpt.png)
    
- - 8.[Кривая Коха](https://github.com/MitrichevGeorge/kvart/blob/main/snkoh.py):<br>
+ - 8.[Кривая Коха(Терраса)](https://github.com/MitrichevGeorge/kvart/blob/main/snkoh.py):<br>
    ![тут была картинка](https://github.com/MitrichevGeorge/kvart/blob/main/img/snkoh.png)
    
  - 9.[Снежинка Коха](https://github.com/MitrichevGeorge/kvart/blob/main/koh.py):<br>
@@ -39,9 +41,12 @@
    ![тут была картинка](https://github.com/MitrichevGeorge/kvart/blob/main/img/hilbert.png)
    
  - 11.[Кривая Госкера](https://github.com/MitrichevGeorge/kvart/blob/main/hosker.py):<br>
-   !тут была картинка
+   ![тут была картинка](https://github.com/MitrichevGeorge/kvart/blob/main/img/hoscer.png)
 
- - 12.[Дерево Пифагора](https://github.com/MitrichevGeorge/kvart/blob/main/piftre.py)
+ - 12.[Дерево Пифагора](https://github.com/MitrichevGeorge/kvart/blob/main/piftre.py):<br>
+   ![тут была картинка](https://github.com/MitrichevGeorge/kvart/blob/main/img/piftre.png)
+
+ - 13.Трисектрис триангулярная кривая Коха
 
  ### Фракталы-множества:
  - 6.[Фрактал Бенуа(Мандельброта)](https://github.com/MitrichevGeorge/kvart/blob/main/mand.py)

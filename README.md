@@ -54,7 +54,9 @@
 
 
  ### Фракталы-множества:
- - 6.[Фрактал Бенуа(Мандельброта)](https://github.com/MitrichevGeorge/kvart/blob/main/mand.py):<br>
+ - 6.[Фрактал Бенуа(Мандельброта)](https://github.com/MitrichevGeorge/kvart/blob/main/md2.py):<br>
+   ![mand](https://github.com/user-attachments/assets/839a616f-e0d8-4d85-a227-7220359b5edf)
+
  - 7.[Аттрактор Лоренца](https://github.com/MitrichevGeorge/kvart/blob/main/lorenz.py):<br>
    ![image](https://github.com/user-attachments/assets/e4d0ccc6-2a78-45d1-b736-33f8b47d5d58)
 
@@ -65,10 +67,14 @@
    ![image](https://github.com/user-attachments/assets/d5216442-35d0-4707-b392-17b3af613069)
 
  - 5.[Множество Барнсли](https://github.com/MitrichevGeorge/kvart/blob/main/barnsli.py):<br>
+   ![image](https://github.com/user-attachments/assets/71544e18-224d-432d-bd20-ee13216c66c6)
+
  - 6.[Множество Новой](https://github.com/MitrichevGeorge/kvart/blob/main/novoj.py):<br>
 
  ### Необычные фракталы:
- - 11.[Фрактал Логистической карты](https://github.com/MitrichevGeorge/kvart/blob/main/lmap.py)
- - 
- - 5.[Фрактал Лиссажу](https://github.com/MitrichevGeorge/kvart/blob/main/lissaj.py):<br>
-   !тут была картинка
+ - 1.[Фрактал Логистической карты](https://github.com/MitrichevGeorge/kvart/blob/main/lmap.py)
+   ![image](https://github.com/user-attachments/assets/40f24468-050d-4986-b3b2-3ca001e3ff70)
+
+ - 2.[Фрактал Лиссажу](https://github.com/MitrichevGeorge/kvart/blob/main/lissaj.py):<br>
+   ![image](https://github.com/user-attachments/assets/5ae50a87-438c-4f5b-bde5-d307e1e9d3a8)
+

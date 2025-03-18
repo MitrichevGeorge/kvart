@@ -5,6 +5,7 @@
    - [Фракталы на черепашке turtle](#Фракталы-на-черепашке-turtle)
    - [Фракталы-множества](#Фракталы-множества)
    - [Необычные фракталы](#Необычные-фракталы)
+ - [Заготовки для создания](#Заготовки)
 
 <small>Названия фракталов кликабельны - ссылка переводит Вас на файл с примером кода.</small>
 
@@ -77,4 +78,98 @@
 
  - 2.[Фрактал Лиссажу](https://github.com/MitrichevGeorge/kvart/blob/main/lissaj.py):<br>
    ![image](https://github.com/user-attachments/assets/5ae50a87-438c-4f5b-bde5-d307e1e9d3a8)
+
+## Заготовки:
+1. Алгоритмы черепашки
+
+```python
+import turtle
+axiom = "FLLFLLF"
+rules = {
+    'F': 'FRFLLFRF'
+}
+iterations = 4
+length = 5
+
+instructions = axiom
+for _ in range(iterations):
+    instructions = ''.join(rules.get(char, char) for char in instructions)
+
+turtle.bgcolor("black")
+turtle.pencolor("white")
+
+turtle.speed(0)
+turtle.tracer(0) 
+
+turtle.penup()
+turtle.goto(0, -150)
+turtle.setheading(60)
+turtle.pendown()
+
+for command in instructions:
+    if command == 'F':
+        turtle.forward(length)
+    elif command == 'R':
+        turtle.right(60)
+    elif command == 'L':
+        turtle.left(60)
+
+turtle.update()
+turtle.done()
+```
+
+2. Пиксельные структуры:
+
+```python
+import pygame
+import sys
+import numpy as np
+
+DEPTH = 5
+SIZE = 500
+
+matrix = [[1]]
+
+TEMPLATE = [
+    [1, 1, 1],
+    [1, 0, 1],
+    [1, 1, 1]
+]
+
+lqn = 3
+
+pygame.init()
+screen = pygame.display.set_mode((SIZE, SIZE))
+
+surface = pygame.Surface((6**DEPTH, 6**DEPTH))
+surface.fill((0, 0, 0))
+pixel_array = pygame.surfarray.pixels3d(surface)
+
+for _ in range(DEPTH):
+    nl = len(matrix[0]) * lqn
+    nm = [[0 for _ in range(nl)] for _ in range(nl)]
+    for x in range(nl):
+        for y in range(nl):
+            if matrix[x // lqn][y // lqn] == 1:
+                nm[x][y] = TEMPLATE[x % lqn][y % lqn]
+    matrix = nm
+
+for row in range(len(matrix)):
+    for col in range(len(matrix[row])):
+        if matrix[row][col] == 0: 
+            pixel_array[col, row] = (0, 0, 0)  
+        else:
+            pixel_array[col, row] = (255, 255, 255)  
+
+del pixel_array
+
+screen.blit(surface, (10, 10))
+pygame.display.flip()
+
+while True:
+    for event in pygame.event.get():
+        if event.type == pygame.QUIT:
+            pygame.quit()
+            sys.exit()
+```
 
